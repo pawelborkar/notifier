@@ -1,0 +1,15 @@
+{
+    "name": "socket",
+    "version": "0.0.1",
+    "description": "Socket",
+    "main": "index.js",
+    "author": "Pawel Borkar",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.15",
+        "socket.io": "^4.4.1"
+    }
+}
